@@ -1,3 +1,5 @@
+### This Nft smart contract mints monthly pass for the Xtelpt platform, which users can use in getting access to therapy session for a month
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
